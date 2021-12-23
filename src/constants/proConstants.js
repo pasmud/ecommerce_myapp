@@ -1,0 +1,3 @@
+export const PRO_LIST_REQUEST = 'PRO_LIST_REQUEST'
+export const PRO_LIST_SUCCESS = 'PRO_LIST_SUCCESS'
+export const PRO_LIST_FAIL = 'PRO_LIST_FAIL'
