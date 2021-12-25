@@ -5,7 +5,7 @@ import {
 
 } from '../constants/proConstants';
 
-export const proReducer = (state = {product:[2,2]}, action) =>{
+export const proReducer = (state = {product:[]}, action) =>{
 
 
     switch(action.type){

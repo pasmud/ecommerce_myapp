@@ -9,3 +9,29 @@ h3{
 .rating span{
   margin: 0.1rem;
 }
+
+.pricetotal{
+  margin-left: 1rem;
+}
+
+.cartitemlist{
+  border: 1px solid;
+  border-color: #e2e2e2;
+  border-radius: 15px;
+}
+
+.cartitemlist2{
+  border: 1px solid;
+  border-color: #e2e2e2;
+  border-radius: 15px;
+
+  margin-left: 1rem;
+}
+
+.trashicon{
+  background-color: aliceblue;
+}
+
+.toalvalue{
+  text-align: right;
+}
